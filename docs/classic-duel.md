@@ -4,7 +4,7 @@ Demo locale di allenamento su un telefono; non sincronizza due giocatori.
 
 ## Prova rapida
 
-Apri Duel AR e inquadra l’immagine del Drago Bianco già configurata. Tocca **Evoca mago di prova**: un mago geometrico originale compare a 25 cm dal drago. Inquadra entrambi e premi **Attacca con Drago Bianco**. Un raggio azzurro raggiunge il mago; i suoi LP passano da 4.000 a 3.500. Il turno successivo mostra **Attacca con Mago Nero**, con raggio viola.
+Apri Duel AR e inquadra l’immagine del Drago Bianco già configurata. Tocca **Evoca mago di prova**: un mago geometrico originale compare a 30 cm di fronte al drago, rivolto verso di lui. Inquadra entrambi e premi **Attacca con Drago Bianco**. Un raggio azzurro raggiunge il mago; i suoi LP passano da 4.000 a 3.500. Il turno successivo mostra **Attacca con Mago Nero**, con raggio viola.
 
 Entrambi sono considerati in posizione di attacco: 3.000 contro 2.500 ATK. Il mago perde 500 LP anche quando attacca il drago. Per consentire prove ripetute, i mostri restano sul tavolo invece di essere distrutti. A zero LP gli attacchi si bloccano. **Ricomincia** ripristina LP e turno. La perdita del tracking durante il raggio annulla l’attacco senza applicare danni.
 

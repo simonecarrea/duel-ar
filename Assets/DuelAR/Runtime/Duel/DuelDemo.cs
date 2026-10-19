@@ -39,8 +39,8 @@ namespace DuelAR.Duel
                     trainingMage.SetActive(training && dragon != null);
                     if (dragon != null)
                     {
-                        trainingMage.transform.position = dragon.position + dragon.right * .25f;
-                        trainingMage.transform.rotation = dragon.rotation;
+                        trainingMage.transform.position = dragon.position + dragon.forward * .30f;
+                        trainingMage.transform.rotation = Quaternion.LookRotation(-dragon.forward, dragon.up);
                     }
                 }
                 mage = trainingMage != null && trainingMage.activeSelf ? trainingMage.transform : null;
